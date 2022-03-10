@@ -1,8 +1,7 @@
 # debian-stable
 This Script Will Install Debian In You Termux! 
 
-![pussy]
-(./Screenshot_20220310_174407.jpg)
+![pussy](./Screenshot_20220310_174407.jpg)
 
 ## Package Must Installed 🚀
 ```terminal
