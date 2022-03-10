@@ -17,8 +17,8 @@ tar
 ## Feature ⭐
 * Lightweight Rootfs
 * Terminal Only
-* Open Source\
-* You Can Get Rootfs From [Here](docker.debian.net)
+* Open Source
+* You Can Get Rootfs From [Here](docker.debian.net).
 
 
 ## Usage
