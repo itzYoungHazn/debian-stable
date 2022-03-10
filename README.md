@@ -9,7 +9,7 @@ proot
 tar
 ```
 
-important**
+# important
 this Script only **work in termux**
 
 # Task
