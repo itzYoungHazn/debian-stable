@@ -9,6 +9,9 @@ proot
 tar
 ```
 
+important**
+this Script only **work in termux**
+
 # Task
 - [x] Release
 - [ ] Fix Bugs
