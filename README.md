@@ -2,7 +2,7 @@
 This Script Will Install Debian In You Termux! 
 
 ## Package Must Installed 🚀
-bash```
+terminal```
 curl 
 wget 
 proot 
