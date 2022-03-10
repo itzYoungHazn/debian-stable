@@ -9,8 +9,9 @@ proot
 tar
 ```
 
-# To Do ☑️
+# Task
 - [x] Release
+- [ ] Fix Bugs
 
 ## Feature ⭐
 * Lightweight Rootfs
