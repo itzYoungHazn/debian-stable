@@ -10,7 +10,7 @@ tar
 ```
 
 # important
-this Script only **work** in **termux**
+> this Script only work in termux
 
 # Task
 - [x] Release
