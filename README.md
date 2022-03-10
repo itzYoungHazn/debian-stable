@@ -6,5 +6,4 @@ terminal```
 curl 
 wget 
 proot 
-tar 
-```
+tar```
