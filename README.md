@@ -9,6 +9,9 @@ proot
 tar
 ```
 
+# To Do ☑️
+- [x] Release
+
 ## Feature ⭐
 * Lightweight Rootfs
 * Terminal Only
