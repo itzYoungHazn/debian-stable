@@ -1,8 +1,8 @@
 # debian-stable
 This Script Will Install Debian In You Termux! 
 
-## Package Must Installed 🚀
-```
+# Package Must Installed 🚀
+python```
 curl 
 wget 
 proot 
