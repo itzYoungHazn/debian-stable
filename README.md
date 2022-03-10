@@ -13,6 +13,7 @@ tar
 
 # important
 > this Script only work in termux
+> architecture required : aarch64 only
 
 # Task
 - [x] Release
