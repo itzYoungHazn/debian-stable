@@ -6,7 +6,7 @@ echo -e "$@" >&2
 
 apt install ncurses-utils -y > /dev/null 2>&1
 
-if [ -d $main ]; 
+if [ -d "$main" ]; 
 then
 msg "${RST}$(tput bold)$(tput setaf 1)[!] Sorry But Debian Has Installed!"
 exit
