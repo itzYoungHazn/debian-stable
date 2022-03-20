@@ -70,7 +70,7 @@ nameserver 8.8.8.8
 nameserver 8.8.4.4
 EOF
 cat <<- EOF > "${main}/etc/hosts"
-127.0.0.1  haznuwu
+127.0.0.1  localhost
 ::1        ip6-localhost ip6-loopback
 EOF
 while read group_name group_id; do
